@@ -1,7 +1,8 @@
 pruebas
 
 Estoy editando el header gatito
-añadí un 5
+añadí un 6
+sigo editando el header
 
 jeder{
   jeder0
@@ -10,6 +11,7 @@ jeder{
   jeder3
   jeder4
   jeder5
+jeder6
 }
 otrojeder
 
