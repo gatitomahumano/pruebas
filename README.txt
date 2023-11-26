@@ -21,20 +21,10 @@ Yo mario voy a editar el body
 sigo en el body
 añado otrovody
 body{
-    body0
-    body1
-    body2
-    body3
-    body4
-    body5
-    body6
-    body7
-    body8
+    newbody0
+    newbody1
     }
-otrobody{
-    Mas bodys
-Mario, tu body está mal ;(
-}
+
 
 
 footer
