@@ -8,11 +8,15 @@ jeder4
 
 
 
-
-body
-body1
-body2
-body3
+Yo mario voy a editar el body
+body{
+    body0
+    body1
+    body2
+    body3
+    body4
+    body5
+    }
 
 
 footer
