@@ -11,6 +11,8 @@ jeder{
 
 
 Yo mario voy a editar el body
+sigo en el body
+añado otrovody
 body{
     body0
     body1
@@ -19,6 +21,7 @@ body{
     body4
     body5
     }
+otrobody
 
 
 footer
