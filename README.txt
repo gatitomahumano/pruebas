@@ -27,8 +27,13 @@ body{
     body3
     body4
     body5
+    body6
+    body7
+    body8
     }
-otrobody
+otrobody{
+    Mas bodys
+}
 
 
 footer
