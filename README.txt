@@ -13,7 +13,7 @@ jeder{
   jeder5
 jeder6
 }
-otrojeder
+
 
 
 
@@ -33,6 +33,7 @@ body{
     }
 otrobody{
     Mas bodys
+Mario, tu body está mal ;(
 }
 
 
